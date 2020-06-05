@@ -1,5 +1,7 @@
 # Game Of Life
-**Sviluppato nel mese di Luglio 2019**
+**Inizio sviluppo: Lug. 2019**
+
+**Fine sviluppo: Lug. 2019**
 
 Progetto per il corso di Algoritmi Paralleli e Sistemi Distribuiti
 
