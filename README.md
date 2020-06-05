@@ -1,6 +1,8 @@
 # Game Of Life
 Progetto per il corso di Algoritmi Paralleli e Sistemi Distribuiti
 
+Sviluppato nel mese di Luglio 2019
+
 ## Introduzione
 Il progetto rappresenta la versione parallela dell’automa cellulare “Il Gioco della Vita”.
 
